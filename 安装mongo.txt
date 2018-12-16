@@ -1,0 +1,3 @@
+git clone https://github.com/willansb502/DOClever.git
+Mongodb½Ì³Ì:http://www.runoob.com/mongodb/mongodb-linux-install.html
+curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.0.6.tgz
